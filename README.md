@@ -1,4 +1,4 @@
-85a05b707ec95dbbc109d3f50135235b99576f00# Multisignature Wallet
+rsed85a05b707ec95dbbc109d3f50135235b99576f00# Multisignature Wallet
 
 This set of contracts provide "N-of-M multisig" functionality: at least N parties out of predefined set of M _signers_ must approve **Order** to execute it.
 
